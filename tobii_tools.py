@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Classes to control the eyetracker and record gaze data.
+Classes to control Tobii eyetrackers and record gaze data.
 
 .. py:data:: CALIBRATION_POINTS
 
